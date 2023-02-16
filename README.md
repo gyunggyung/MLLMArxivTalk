@@ -20,8 +20,8 @@ LLM, NLG, Dialogue, Reinforcement learning, Distillation, Efficient, Sentence si
 
 ## 진행 사항 + 예정
 2023-02-16 11:30 ~ 12:45 염기웅, 강수진, 고현웅
-- [P-Tuning v2: Prompt Tuning Can Be Comparable to Fine-tuning Universally Across Scales and Tasks](https://arxiv.org/abs/2110.07602.pdf)
 - [GPT Understands, To](https://arxiv.org/pdf/2103.10385.pdf)
+- [P-Tuning v2: Prompt Tuning Can Be Comparable to Fine-tuning Universally Across Scales and Tasks](https://arxiv.org/abs/2110.07602.pdf)
 - [Do Prompt-Based Models Really Understand the Meaning of their Prompts?](https://arxiv.org/pdf/2109.01247.pdf)
 
 2023-02-18 7:30 ~ 8:30 염기웅, 박상준, 강수진, 
@@ -87,19 +87,20 @@ LLM, NLG, Dialogue, Reinforcement learning, Distillation, Efficient, Sentence si
 
 ### github
 - [DistilKoBiLSTM](https://github.com/gyunggyung/DistilKoBiLSTM)
-- [The RWKV Language Model (and my LM tricks)](https://github.com/BlinkDL/RWKV-LM)
 - [Donut 🍩 : Document Understanding Transformer](https://github.com/clovaai/donut)
+- [The RWKV Language Model (and my LM tricks)](https://github.com/BlinkDL/RWKV-LM)
 
 ### youtube
-- [Are Bigger Language Models Better? | DeepMind Gopher and RETRO](https://youtu.be/IaltsI1BCro)
-- [The Illustrated Retrieval Transformer](https://youtu.be/sMPq4cVS4kg)
+- [Study Playlist](https://youtube.com/playlist?list=PLsmJteXozP3oHVB5TCrXEcrfQnInMxkoT)
+
 - [Improving Language Models by Retrieving from Trillions of Tokens | NLP Journal Club](https://youtu.be/-cnujwUDseU)
 - [ECMLPKDD2021: WuDao: Pretrain the World, Keynote speaker talk by Jie Tang](https://youtu.be/D71zxGRhuxE)
 - [StrictlyVC in conversation with Sam Altman, part two (OpenAI)](https://youtu.be/ebjkD1Om4uw)
-- [Study Playlist](https://youtube.com/playlist?list=PLsmJteXozP3oHVB5TCrXEcrfQnInMxkoT)
+- [Are Bigger Language Models Better? | DeepMind Gopher and RETRO](https://youtu.be/IaltsI1BCro)
+- [The Illustrated Retrieval Transformer](https://youtu.be/sMPq4cVS4kg)
 
 ### deepmind
-- [Deepmind: Improving language models by retrieving from trillions of tokens](https://www.deepmind.com/publications/improving-language-models-by-retrieving-from-trillions-of-tokens
+- [Deepmind: Improving language models by retrieving from trillions of tokens](https://www.deepmind.com/publications/improving-language-models-by-retrieving-from-trillions-of-tokens)
 - [Deepmind: Building safer dialogue agents](https://www.deepmind.com/blog/building-safer-dialogue-agents)
 - [Deepmind: Competitive programming with AlphaCode](https://www.deepmind.com/blog/competitive-programming-with-alphacode)
 - [Deepmind: Mastering Stratego, the classic game of imperfect information](https://www.deepmind.com/blog/mastering-stratego-the-classic-game-of-imperfect-information)
