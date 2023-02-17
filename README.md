@@ -30,7 +30,7 @@ LLM, NLG, Dialogue, Reinforcement learning, Distillation, Efficient, Sentence si
 2023-02-19 11:30 ~ 12:30 염기웅, 박상준, 강수진, 김찬란, 
 - [Improving language models by retrieving from trillions of tokens](https://arxiv.org/pdf/2112.04426.pdf)
 
-2023-02-22 7:30 ~ 8:30 염기웅, 박상준, 강수진, 고현웅, 
+2023-02-22 7:30 ~ 8:30 염기웅, 박상준, 강수진, 고현웅, 이현제
 - [BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://arxiv.org/pdf/2301.12597v1.pdf)
 
 ## 후보
@@ -154,7 +154,7 @@ LLM, NLG, Dialogue, Reinforcement learning, Distillation, Efficient, Sentence si
 3. 고현웅: 
 4. 박상준: 
 5. 김찬란: 
-6. 이현재: 
+6. 이현제: 삼성SDS에서 자연어처리를 연구하고 있습니다. instruction finetuning, sentence representation 쪽에 관심이 있습니다. oglee815@gmail.com 
 7. 김기현: 
 
 
