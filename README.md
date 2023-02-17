@@ -162,7 +162,7 @@ LLM, NLG, Dialogue, Reinforcement learning, Distillation, Efficient, Sentence si
 4. 박상준: 스타트업 ML 엔지니어로 일하다 휴직 후 성균관대 학부생으로 NLP 연구를 하고 있습니다.
 5. 김찬란: 
 6. 이현제: 삼성SDS에서 자연어처리를 연구하고 있습니다. instruction finetuning, sentence representation 쪽에 관심이 있습니다. oglee815@gmail.com 
-7. 김기현: 
+7. 김기현: SKTelecom에서 LLM을 활용한 대화모델링을 연구/개발 하고 있습니다 -- [Github link](https://github.com/kh-kim/)
 
 
 ## Google Scholar
