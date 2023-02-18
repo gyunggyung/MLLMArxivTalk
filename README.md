@@ -1,4 +1,4 @@
-# LMMArxivTalk
+# LLMArxivTalk
 최신 LLM 관련 논문 스터디. 항상 오후에 진행.
 
 LLM, NLG, Dialogue, Reinforcement learning, Distillation, Efficient, Sentence similarity, multiple tasks, multimodal, Stable diffusion, TTS, Text-To-Video, All-To-All ETC...
