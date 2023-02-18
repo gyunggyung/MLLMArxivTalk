@@ -158,11 +158,10 @@ LLM, NLG, Dialogue, Reinforcement learning, Distillation, Efficient, Sentence si
 2. 강수진: 안녕하세요. 경량화, MLOps, 사업화 관심있습니다. 현재 생성 AI 기반 창업 준비 중이며, TTS와 한국어 NLG 연구 경험이 있습니다. https://www.linkedin.com/in/ellie-kang7
 3. 고현웅: 튜닙 머신러닝 엔지니어 고현웅입니다. 반갑습니다.
 4. 박상준: 스타트업 ML 엔지니어로 일하다 휴직 후 성균관대 학부생으로 NLP 연구를 하고 있습니다.
-5. 김찬란: 안녕하세요:손인사:, SKT의 A. Multimodal AI 조직에서 일하고 있는 김찬란입니다. 가짜연구소와 HP 활동도 하고 있습니다. 현재는 Stable Diffusion 관련된 쪽에 집중하고 있지만, 특정한 분야에 한정되지 않으려 노력하고 있습니다. 커뮤니티에서 이름으로만 많이 뵙던 유명한 분들이 계신 것 같네요! 제가 많이 부족하지만 잘 부탁드립니다. :기도: seriousran@gmail.com /https://www.linkedin.com/in/chanran-kim
-6. 이현제: 삼성SDS에서 자연어처리를 연구하고 있습니다. Instruction fine-tuning, Sentence Representation 쪽에 관심이 있습니다. oglee815@gmail.com 
-7. 김기현: SKTelecom에서 LLM을 활용한 대화모델링을 연구/개발하고 있습니다 -- [Github link](https://github.com/kh-kim/)
-8. 이광희: VIVE STUDIOS에서 CTO를 맡고 있는 이광희입니다. Generative AI, LLM등을 활용하여 Virtual Production, Virtual Human을 포함한 컨텐츠 저작 도구 서비스화에 관심이 있습니다. lkwanghee@gmail.com
-9. 이웅기: 안녕하세요. i-Scream Edu에서 NLP 연구개발로 일하고 있는 이웅기입니다. 개인적으로는 교육 분야에서 학생들의 지식 상태를 예측하는 지식추적(Knowledge Tracing) 연구나 학습분석(Learning Analytics) 연구를 진행하고 있습니다. 열심히 배우겠습니다. 잘 부탁드려요:) codingchild@gmail.com // https://www.linkedin.com/in/unggilee/
+5. 이현제: 삼성SDS에서 자연어처리를 연구하고 있습니다. Instruction fine-tuning, Sentence Representation 쪽에 관심이 있습니다. oglee815@gmail.com 
+6. 김기현: SKTelecom에서 LLM을 활용한 대화모델링을 연구/개발하고 있습니다 -- [Github link](https://github.com/kh-kim/)
+7. 이광희: VIVE STUDIOS에서 CTO를 맡고 있는 이광희입니다. Generative AI, LLM등을 활용하여 Virtual Production, Virtual Human을 포함한 컨텐츠 저작 도구 서비스화에 관심이 있습니다. lkwanghee@gmail.com
+8. 이웅기: 안녕하세요. i-Scream Edu에서 NLP 연구개발로 일하고 있는 이웅기입니다. 개인적으로는 교육 분야에서 학생들의 지식 상태를 예측하는 지식추적(Knowledge Tracing) 연구나 학습분석(Learning Analytics) 연구를 진행하고 있습니다. 열심히 배우겠습니다. 잘 부탁드려요:) codingchild@gmail.com // https://www.linkedin.com/in/unggilee/
 
 ## Google Scholar
 Google Scholar에서 추천 받은 것들
