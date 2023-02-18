@@ -162,6 +162,7 @@ LLM, NLG, Dialogue, Reinforcement learning, Distillation, Efficient, Sentence si
 6. 김기현: SKTelecom에서 LLM을 활용한 대화모델링을 연구/개발하고 있습니다 -- [Github link](https://github.com/kh-kim/)
 7. 이광희: VIVE STUDIOS에서 CTO를 맡고 있는 이광희입니다. Generative AI, LLM등을 활용하여 Virtual Production, Virtual Human을 포함한 컨텐츠 저작 도구 서비스화에 관심이 있습니다. lkwanghee@gmail.com
 8. 이웅기: 안녕하세요. i-Scream Edu에서 NLP 연구개발로 일하고 있는 이웅기입니다. 개인적으로는 교육 분야에서 학생들의 지식 상태를 예측하는 지식추적(Knowledge Tracing) 연구나 학습분석(Learning Analytics) 연구를 진행하고 있습니다. 열심히 배우겠습니다. 잘 부탁드려요:) codingchild@gmail.com // https://www.linkedin.com/in/unggilee/
+9. 정원창: 안녕하세요. MS 에서 뉴스추천엔진의 자연어처리 요소를 담당하고 있는 정원창이라고 합니다. 많이 배우고 싶습니다. 제가 시간대가 안맞아서 자주 참여하지는 못할 수 있지만, 슬랙을 통해서도 많이 교류하고 싶습니다. wonchang.chung 쥐메일입니다.
 
 ## Google Scholar
 Google Scholar에서 추천 받은 것들
