@@ -158,7 +158,7 @@ LLM, NLG, Dialogue, Reinforcement learning, Distillation, Efficient, Sentence si
 ## 참여 인원 소개
 1. 염기웅: 저는 여러분을 모으고 프로메우스와 바드의 꿈이라는 책을 쓰는 염기웅입니다. LLM Dialogue Distillation 에 관심과 경험이 있습니다! 경량화 Mlops 서빙 멀티모달 멀티태스크 모델에도 관심이 있습니다. newhiwoong@gmail.com https://github.com/gyunggyung
 2. 강수진: 
-3. 고현웅: 
+3. 고현웅: 튜닙 머신러닝 엔지니어 고현웅입니다. 반갑습니다.
 4. 박상준: 스타트업 ML 엔지니어로 일하다 휴직 후 성균관대 학부생으로 NLP 연구를 하고 있습니다.
 5. 김찬란: 
 6. 이현제: 삼성SDS에서 자연어처리를 연구하고 있습니다. instruction finetuning, sentence representation 쪽에 관심이 있습니다. oglee815@gmail.com 
