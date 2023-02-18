@@ -163,7 +163,7 @@ LLM, NLG, Dialogue, Reinforcement learning, Distillation, Efficient, Sentence si
 5. 김찬란: 
 6. 이현제: 삼성SDS에서 자연어처리를 연구하고 있습니다. instruction finetuning, sentence representation 쪽에 관심이 있습니다. oglee815@gmail.com 
 7. 김기현: SKTelecom에서 LLM을 활용한 대화모델링을 연구/개발 하고 있습니다 -- [Github link](https://github.com/kh-kim/)
-
+8. 이광희: VIVE STUDIOS에서 CTO를 맡고 있는 이광희 입니다. Generative  AI,  LLM등을 활용하여 Virtual  Production, Virtual  Human을 포함한 컨텐츠 저작 도구 서비스화에 관심이 있습니다. lkwanghee@gmail.com
 
 ## Google Scholar
 Google Scholar에서 추천 받은 것들
