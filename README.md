@@ -31,11 +31,9 @@ LLM, NLG, Dialogue, Reinforcement learning, Distillation, Efficient, Sentence si
 - [P-Tuning v2: Prompt Tuning Can Be Comparable to Fine-tuning Universally Across Scales and Tasks](https://arxiv.org/abs/2110.07602.pdf)
 - [Do Prompt-Based Models Really Understand the Meaning of their Prompts?](https://arxiv.org/pdf/2109.01247.pdf)
 
-2023-02-18 7:30 ~ 8:30 염기웅, 박상준, 강수진, 
-- [∞-former: Infinite Memory Transformer](https://arxiv.org/abs/2109.00301)
-
 2023-02-19 11:30 ~ 12:30 염기웅, 박상준, 강수진, 김찬란, 
 - [Improving language models by retrieving from trillions of tokens](https://arxiv.org/pdf/2112.04426.pdf)
+- [∞-former: Infinite Memory Transformer](https://arxiv.org/abs/2109.00301)
 
 2023-02-22 7:30 ~ 8:30 염기웅, 박상준, 강수진, 고현웅, 이현제
 - [BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://arxiv.org/pdf/2301.12597v1.pdf)
