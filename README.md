@@ -32,8 +32,8 @@ LLM, NLG, Dialogue, Reinforcement learning, Distillation, Efficient, Sentence si
 - [Do Prompt-Based Models Really Understand the Meaning of their Prompts?](https://arxiv.org/pdf/2109.01247.pdf)
 
 2023-02-19 11:30 ~ 12:30 염기웅, 박상준, 강수진
-- [Improving language models by retrieving from trillions of tokens](https://arxiv.org/pdf/2112.04426.pdf)
 - [∞-former: Infinite Memory Transformer](https://arxiv.org/abs/2109.00301)
+- [Improving language models by retrieving from trillions of tokens](https://arxiv.org/pdf/2112.04426.pdf)
 - [Augmented Language Models: a Survey](https://arxiv.org/pdf/2302.07842.pdf)
 
 2023-02-22 7:30 ~ 8:30 염기웅, 박상준, 강수진, 이현제
@@ -98,7 +98,6 @@ LLM, NLG, Dialogue, Reinforcement learning, Distillation, Efficient, Sentence si
 
 ### youtube
 - [Study Playlist](https://youtube.com/playlist?list=PLsmJteXozP3oHVB5TCrXEcrfQnInMxkoT)
-
 - [Improving Language Models by Retrieving from Trillions of Tokens | NLP Journal Club](https://youtu.be/-cnujwUDseU)
 - [ECMLPKDD2021: WuDao: Pretrain the World, Keynote speaker talk by Jie Tang](https://youtu.be/D71zxGRhuxE)
 - [StrictlyVC in conversation with Sam Altman, part two (OpenAI)](https://youtu.be/ebjkD1Om4uw)
