@@ -11,19 +11,21 @@ LLM, NLG, Dialogue, Reinforcement learning, Distillation, Efficient, Sentence si
 
 ## 규칙
 1. 영어 금지.
-2. 외국인 금지.
+2. 한국어만 사용.
 3. 1주일에 논문 2개 이상.
 4. 되는 사람은 10개 이상.
 5. 최대 20분 현장에서 논문 읽기.
 6. 최대 40분 토론.
 7. 1시간 스터디 시 바로 나가도 됨.
-8. 자유롭게.
-9. 모두연 규칙 붙여넣기.
+8. 자유롭게 진행.
+9. 여러 기관 좋은 규칙 붙여넣기.
 10. 다들 대단한 분들이니 질문 많이.
 11. 공유 자주.
 12. 각자 더 뛰어난게 있다는 것을 인지.
 13. 겸손하기 노력하기 잘하기.
-14. 잠수 금지.
+14. 하기로 한 일은 하자, 다들 바쁘분들입니다.
+15. 흥미 주제만, 중간에 10분 이하만 참여해도 무관.
+16. 기본적으로 녹화 후 내부 공유.
 
 ## 진행 사항 + 예정
 2023-02-16 11:30 ~ 12:45 염기웅, 강수진, 고현웅
@@ -38,6 +40,7 @@ LLM, NLG, Dialogue, Reinforcement learning, Distillation, Efficient, Sentence si
 
 2023-02-22 7:30 ~ 8:30 염기웅, 박상준, 강수진, 이현제
 - [BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://arxiv.org/pdf/2301.12597v1.pdf)
+- 
 
 ## 후보
 앞으로 할만한 논문, 코드, 강의 등.
@@ -153,7 +156,9 @@ LLM, NLG, Dialogue, Reinforcement learning, Distillation, Efficient, Sentence si
 - [DIFF-SVC FOR VOCAL SYNTH USERS](https://docs.google.com/document/u/0/d/1nA3PfQ-BooUpjCYErU-BHYvg2_NazAYJ0mvvmcjG40o/mobilebasic)
 - [Chat GPT detector by ZeroGPT: detect OpenAI text](https://www.zerogpt.com/)
 
-## 참여 인원 소개
+## 참여 인원 소개 
+더 많은 분들이 있습니다. 합류를 원하시면 간단한 소개와 newhiwoong@gmail.com 으로 연락주세요.
+
 1. 염기웅: 저는 여러분을 모으고 프로메우스와 바드의 꿈이라는 책을 쓰는 염기웅입니다. LLM, Dialogue Distillation, Knowledge Distillation에 관심과 지식이 있습니다! 경량화, 서빙, 멀티모달, 멀티태스크에도 관심이 있습니다. newhiwoong@gmail.com https://github.com/gyunggyung
 2. 강수진: 안녕하세요. 경량화, MLOps, 사업화 관심있습니다. 현재 생성 AI 기반 창업 준비 중이며, TTS와 한국어 NLG 연구 경험이 있습니다. https://www.linkedin.com/in/ellie-kang7
 3. 박상준: 스타트업 ML 엔지니어로 일하다 휴직 후 성균관대 학부생으로 NLP 연구를 하고 있습니다.
