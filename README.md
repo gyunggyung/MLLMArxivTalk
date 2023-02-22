@@ -38,9 +38,13 @@ LLM, NLG, Dialogue, Reinforcement learning, Distillation, Efficient, Sentence si
 - [Improving language models by retrieving from trillions of tokens](https://arxiv.org/pdf/2112.04426.pdf)
 - [Augmented Language Models: a Survey](https://arxiv.org/pdf/2302.07842.pdf)
 
-2023-02-22 7:30 ~ 8:30 염기웅, 박상준, 강수진, 이현제
+2023-02-22 7:30 ~ 9:00 염기웅, 박상준, 이웅기, 이현제, 
 - [BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://arxiv.org/pdf/2301.12597v1.pdf)
-- 
+- [Structure and Content-Guided Video Synthesis with Diffusion Models](https://arxiv.org/abs/2302.03011)
+- [MusicLM: Generating Music From Text](https://arxiv.org/abs/2301.11325)
+
+2023-02-23 5:00 ~ 6:00 염기웅, 
+- ChatGPT와 최적화 모델
 
 ## 후보
 앞으로 할만한 논문, 코드, 강의 등.
