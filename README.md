@@ -29,7 +29,7 @@ LLM, NLG, Dialogue, Reinforcement learning, Distillation, Efficient, Sentence si
 17. 정보를 혼자 알게 이상한 곳에 쓰지 말고, 다 같이 알게 말하기.
 18. 더 추가해주세요.
 
-## 진행 사항 + 예정
+## 진행 사항 + 예정 (모두 오후입니다)
 2023-02-16 11:30 ~ 12:45 염기웅, 강수진, 고현웅
 - [GPT Understands, To](https://arxiv.org/pdf/2103.10385.pdf)
 - [P-Tuning v2: Prompt Tuning Can Be Comparable to Fine-tuning Universally Across Scales and Tasks](https://arxiv.org/abs/2110.07602.pdf)
@@ -40,13 +40,29 @@ LLM, NLG, Dialogue, Reinforcement learning, Distillation, Efficient, Sentence si
 - [Improving language models by retrieving from trillions of tokens](https://arxiv.org/pdf/2112.04426.pdf)
 - [Augmented Language Models: a Survey](https://arxiv.org/pdf/2302.07842.pdf)
 
-2023-02-22 7:30 ~ 9:00 염기웅, 박상준, 이웅기, 이현제, 
+2023-02-22 7:30 ~ 9:00 염기웅, 박상준, 이웅기, 이현제
 - [BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://arxiv.org/pdf/2301.12597v1.pdf)
 - [Structure and Content-Guided Video Synthesis with Diffusion Models](https://arxiv.org/abs/2302.03011)
 - [MusicLM: Generating Music From Text](https://arxiv.org/abs/2301.11325)
 
-2023-02-23 5:00 ~ 6:00 염기웅, 
-- ChatGPT와 수 십, 수 백 배 작지만 이를 압도하는 모델들.
+2023-02-23 11:00 ~ 12:00 염기웅, 박상준, 황명하
+- [InstructGPT : Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155)
+- [BioGPT: Generative Pre-trained Transformer for Biomedical Text Generation and Mining](https://arxiv.org/abs/2210.10341)
+
+2023-02-24 5:00 ~ 7:00 염기웅, 
+- [Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2204.05862)
+- [Multimodal Chain-of-Thought Reasoning in Language Models](https://arxiv.org/abs/2302.00923)
+- [Constitutional AI: Harmlessness from AI Feedback](https://arxiv.org/abs/2212.08073)
+- [Provable Copyright Protection for Generative Models](https://arxiv.org/abs/2302.10870)
+- [What learning algorithm is in-context learning? Investigations with linear models](https://arxiv.org/abs/2211.15661)
+- [A Path Towards Autonomous Machine Intelligence](https://openreview.net/forum?id=BZ5a1r-kVsf)
+- [PAL: Program-aided Language Models](https://arxiv.org/pdf/2211.10435.pdf)
+- [Toolformer: Language Models Can Teach Themselves to Use Tools](https://arxiv.org/abs/2302.04761)
+
+2023-02-26 3:00 ~ 4:00 염기웅, 교수
+- 2곳은 끝나는 SM, 카카오엔터, 하이브의 전쟁
+- 인공지능과 저작권, 미키마우스 저작권 종료
+- 우주 생명 인공지능 사람 규제 책 이야기 등
 
 ## 후보
 앞으로 할만한 논문, 코드, 강의 등.
