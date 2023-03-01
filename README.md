@@ -42,8 +42,8 @@ LLM, NLG, Dialogue, Reinforcement learning, Distillation, Efficient, Sentence si
 
 2023-02-22 7:30 ~ 9:00 염기웅, 박상준, 이웅기, 이현제
 - [BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://arxiv.org/pdf/2301.12597v1.pdf)
-- [Structure and Content-Guided Video Synthesis with Diffusion Models](https://arxiv.org/abs/2302.03011)
-- [MusicLM: Generating Music From Text](https://arxiv.org/abs/2301.11325)
+- [Structure and Content-Guided Video Synthesis with Diffusion Models](https://arxiv.org/pdf/2302.03011.pdf)
+- [MusicLM: Generating Music From Text](https://arxiv.org/pdf/2301.11325.pdf)
 
 2023-02-23 11:00 ~ 12:00 염기웅, 박상준, 황명하
 - [InstructGPT : Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155)
@@ -57,12 +57,12 @@ LLM, NLG, Dialogue, Reinforcement learning, Distillation, Efficient, Sentence si
 - [What learning algorithm is in-context learning? Investigations with linear models](https://arxiv.org/abs/2211.15661)
 - [A Path Towards Autonomous Machine Intelligence](https://openreview.net/forum?id=BZ5a1r-kVsf)
 - [PAL: Program-aided Language Models](https://arxiv.org/pdf/2211.10435.pdf)
-- [Toolformer: Language Models Can Teach Themselves to Use Tools](https://arxiv.org/abs/2302.04761)
+- [Toolformer: Language Models Can Teach Themselves to Use Tools](https://arxiv.org/pdf/2302.04761.pdf)
 
-2023-02-26 3:00 ~ 4:00 염기웅, 교수
-- 2곳은 끝나는 SM, 카카오엔터, 하이브의 전쟁
-- 인공지능과 저작권, 미키마우스 저작권 종료
-- 우주 생명 인공지능 사람 규제 책 이야기 등
+2023-03-01 8:30 ~ 9:40 염기웅, 이대환
+- [LLaMA: Open and Efficient Foundation Language Models](https://research.facebook.com/file/1574548786327032/LLaMA--Open-and-Efficient-Foundation-Language-Models.pdf)
+- [Improving alignment of dialogue agents via targeted human judgements](https://arxiv.org/pdf/2209.14375.pdf)
+- [Training Compute-Optimal Large Language Models](https://arxiv.org/pdf/2203.15556.pdf)
 
 ## 후보
 앞으로 할만한 논문, 코드, 강의 등.
