@@ -9,26 +9,6 @@ LLM, NLG, Dialogue, Reinforcement learning, Distillation, Efficient, Sentence si
 
 주말을 포함하여, 거의 매일 추가 스터디 존재. 흥미로운 주제거나 참여 되는 날만 중간에 들어와서 중간에 나가도 무관. 모든 규칙은 협의 가능. 오프라인 모임도 예정. 자율 참여.
 
-## 규칙
-1. 영어만은 금지.
-2. 한국어 중심 사용. 특수 용어는 영어 사용.
-3. 1주일에 논문 2개 이상.
-4. 되는 사람은 10개 이상. 저는 20개.
-5. 5분에서 20분 현장에서 논문 읽기.
-6. 10분에서 40분 토론.
-7. 1시간 스터디 시 바로 나가도 됨.
-8. 자유롭게 진행. 2시간 매일도 가능.
-9. 여러 기관 좋은 규칙 붙여넣기.
-10. 다들 대단한 분들이니 질문 많이.
-11. 정보 공유 자주.
-12. 각자 더 뛰어난게 있다는 것을 인지.
-13. 그냥 잘하기.
-14. 하기로 한 일은 하자, 다들 바쁨.
-15. 흥미 주제만 중간에 10분 이하만 참여해도 무관.
-16. 기본적으로 녹화 후 내부 공유.
-17. 정보를 혼자 알게 이상한 곳에 쓰지 말고, 다 같이 알게 말하기.
-18. 더 추가해주세요.
-
 ## 진행 사항 + 예정 (모두 오후입니다)
 2023-02-16 11:30 ~ 12:45 염기웅, 강수진, 고현웅
 - [GPT Understands, To](https://arxiv.org/pdf/2103.10385.pdf)
@@ -49,7 +29,7 @@ LLM, NLG, Dialogue, Reinforcement learning, Distillation, Efficient, Sentence si
 - [InstructGPT : Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155)
 - [BioGPT: Generative Pre-trained Transformer for Biomedical Text Generation and Mining](https://arxiv.org/abs/2210.10341)
 
-2023-02-24 5:00 ~ 7:00 염기웅, 
+2023-02-24 5:00 ~ 7:00 염기웅
 - [Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2204.05862)
 - [Multimodal Chain-of-Thought Reasoning in Language Models](https://arxiv.org/abs/2302.00923)
 - [Constitutional AI: Harmlessness from AI Feedback](https://arxiv.org/abs/2212.08073)
@@ -63,6 +43,25 @@ LLM, NLG, Dialogue, Reinforcement learning, Distillation, Efficient, Sentence si
 - [LLaMA: Open and Efficient Foundation Language Models](https://research.facebook.com/file/1574548786327032/LLaMA--Open-and-Efficient-Foundation-Language-Models.pdf)
 - [Improving alignment of dialogue agents via targeted human judgements](https://arxiv.org/pdf/2209.14375.pdf)
 - [Training Compute-Optimal Large Language Models](https://arxiv.org/pdf/2203.15556.pdf)
+
+2023-03-04 10:00 ~ 11:00 염기웅, 황명하, 
+- [LLaMA-based ChatGPT training](https://github.com/nebuly-ai/nebullvm/tree/main/apps/accelerate/chatllama), [ChatLLaMA](https://github.com/juncongmoo/chatllama)
+- [RLHF: Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback](https://arxiv.org/pdf/2204.05862.pdf)
+- [BaGuaLu: Targeting Brain Scale Pretrained Models with over 37 Million Cores](https://dl.acm.org/doi/pdf/10.1145/3503221.3508417)
+
+## 규칙
+1. 영어만 사용은 금지. 한국어 중심 사용. 특수 용어는 영어 사용.
+2. 1주일에 논문 2개 이상 스터디. 되는 사람은 10개 이상.
+3. 3분에서 20분 현장에서 논문 읽기. 5분에서 30분 토론.
+4. 1시간 스터디 시, 바로 나가도 됨. 원할 때 10분 이하 참여도 무관. 자유롭게 진행. 2시간 매일도 가능.
+5. 각자 더 뛰어난 게 있다는 것을 인지. 다들 대단한 분들이니 질문 많이 하고, 정보 공유 자주.
+6. 본인이 하기로 한 일만은 수행. 한다고 말하고, 안 하는 것은 민폐다.
+7. 기본적으로 녹화 후 내부 공유.
+8. 정보를 혼자 알게 쓰지 말고, 다 같이 알게 말하기.
+9. 개인 사정으로 스터디 탈퇴 시, 자기소개에 인사 작성.
+10. 여러 기관 좋은 규칙 붙여넣기.
+11. 팀에 도움이 된다고 판단하면, 위 규칙을 모두 무시하고 행동.
+12. 추가.
 
 ## 후보
 앞으로 할만한 논문, 코드, 강의 등.
@@ -116,20 +115,7 @@ LLM, NLG, Dialogue, Reinforcement learning, Distillation, Efficient, Sentence si
 - [Propeller: A Profile Guided, Relinking Optimizer for Warehouse-Scale Applications](https://dl.acm.org/doi/10.1145/3575693.3575727)
 - [Large Language Models are Zero-Shot Reasoners](https://arxiv.org/pdf/2205.11916.pdf%EC%97%90%EC%84%9C)
 
-### github
-- [DistilKoBiLSTM](https://github.com/gyunggyung/DistilKoBiLSTM)
-- [Donut 🍩 : Document Understanding Transformer](https://github.com/clovaai/donut)
-- [The RWKV Language Model (and my LM tricks)](https://github.com/BlinkDL/RWKV-LM)
 
-### youtube
-- [Study Playlist](https://youtube.com/playlist?list=PLsmJteXozP3oHVB5TCrXEcrfQnInMxkoT)
-- [Improving Language Models by Retrieving from Trillions of Tokens | NLP Journal Club](https://youtu.be/-cnujwUDseU)
-- [ECMLPKDD2021: WuDao: Pretrain the World, Keynote speaker talk by Jie Tang](https://youtu.be/D71zxGRhuxE)
-- [StrictlyVC in conversation with Sam Altman, part two (OpenAI)](https://youtu.be/ebjkD1Om4uw)
-- [Are Bigger Language Models Better? | DeepMind Gopher and RETRO](https://youtu.be/IaltsI1BCro)
-- [The Illustrated Retrieval Transformer](https://youtu.be/sMPq4cVS4kg)
-
-### deepmind
 - [Deepmind: Improving language models by retrieving from trillions of tokens](https://www.deepmind.com/publications/improving-language-models-by-retrieving-from-trillions-of-tokens)
 - [Deepmind: Building safer dialogue agents](https://www.deepmind.com/blog/building-safer-dialogue-agents)
 - [Deepmind: Competitive programming with AlphaCode](https://www.deepmind.com/blog/competitive-programming-with-alphacode)
@@ -142,8 +128,6 @@ LLM, NLG, Dialogue, Reinforcement learning, Distillation, Efficient, Sentence si
 - [Deepmind: Exploring the beauty of pure mathematics in novel ways](https://www.deepmind.com/blog/exploring-the-beauty-of-pure-mathematics-in-novel-ways)
 - [Deepmind: Nowcasting the next hour of rain](https://www.deepmind.com/blog/nowcasting-the-next-hour-of-rain)
 - [Deepmind: Putting the power of AlphaFold into the world’s hands](https://www.deepmind.com/blog/putting-the-power-of-alphafold-into-the-worlds-hands)
-
-### google
 - [Google Research: Deciphering clinical abbreviations with privacy protecting ML](https://ai.googleblog.com/2023/01/deciphering-clinical-abbreviations-with.html)
 - [Google Research: Google Research, 2022 & beyond: Language, vision and generative models](https://ai.googleblog.com/2023/01/google-research-2022-beyond-language.html)
 - [Google Research: Google Research, 2022 & beyond: Responsible AI](https://ai.googleblog.com/2023/01/google-research-2022-beyond-responsible.html)
@@ -158,8 +142,6 @@ LLM, NLG, Dialogue, Reinforcement learning, Distillation, Efficient, Sentence si
 - [Google Research: DiffQG: Generating Questions on Paired Sentences](https://research.google/pubs/pub52078/)
 - [Google Research: Assessment of Security Defense of Native Programs Against Software Faults](https://link.springer.com/chapter/10.1007/978-3-031-02063-6_5)
 - [Google Research: Adaptive mixing of auxiliary losses in supervised learning](https://research.google/pubs/pub51874/)
-
-### openai
 - [OpenAI: Multimodal Neurons in Artificial Neural Networks](https://openai.com/blog/multimodal-neurons/)
 - [OpenAI: DALL·E: Creating Images from Text](https://openai.com/blog/dall-e/)
 - [OpenAI: CLIP: Connecting Text and Images](https://openai.com/blog/clip/)
@@ -172,6 +154,19 @@ LLM, NLG, Dialogue, Reinforcement learning, Distillation, Efficient, Sentence si
 - [OpenAI: MuseNet](https://openai.com/blog/musenet/)
 - [OpenAI: Emergent Tool Use from Multi-Agent Interaction](https://openai.com/blog/emergent-tool-use/)
 
+### github
+- [DistilKoBiLSTM](https://github.com/gyunggyung/DistilKoBiLSTM)
+- [Donut 🍩 : Document Understanding Transformer](https://github.com/clovaai/donut)
+- [The RWKV Language Model (and my LM tricks)](https://github.com/BlinkDL/RWKV-LM)
+
+### youtube
+- [Study Playlist](https://youtube.com/playlist?list=PLsmJteXozP3oHVB5TCrXEcrfQnInMxkoT)
+- [Improving Language Models by Retrieving from Trillions of Tokens | NLP Journal Club](https://youtu.be/-cnujwUDseU)
+- [ECMLPKDD2021: WuDao: Pretrain the World, Keynote speaker talk by Jie Tang](https://youtu.be/D71zxGRhuxE)
+- [StrictlyVC in conversation with Sam Altman, part two (OpenAI)](https://youtu.be/ebjkD1Om4uw)
+- [Are Bigger Language Models Better? | DeepMind Gopher and RETRO](https://youtu.be/IaltsI1BCro)
+- [The Illustrated Retrieval Transformer](https://youtu.be/sMPq4cVS4kg)
+
 ### other
 - [CS224U: Natural Language Understandin](http://web.stanford.edu/class/cs224u/)
 - [Gen-1: The Next Step Forward for Generative AI](https://research.runwayml.com/gen1)
@@ -179,7 +174,7 @@ LLM, NLG, Dialogue, Reinforcement learning, Distillation, Efficient, Sentence si
 - [Chat GPT detector by ZeroGPT: detect OpenAI text](https://www.zerogpt.com/)
 
 ## 참여 인원 소개 
-더 많은 분들이 있습니다. 합류를 원하시면 간단한 소개와 newhiwoong@gmail.com 으로 연락주세요.
+23년 3월 기준, 20명 정도 더 많은 분들이 있습니다. 합류를 원하시면 간단한 소개와 newhiwoong@gmail.com 으로 연락주세요.
 
 1. 염기웅: 저는 여러분을 모으고 프로메우스와 바드의 꿈이라는 책을 쓰는 염기웅입니다. LLM, Dialogue Distillation, Knowledge Distillation에 관심과 지식이 있습니다! 경량화, 서빙, 멀티모달, 멀티태스크에도 관심이 있습니다. newhiwoong@gmail.com https://github.com/gyunggyung
 2. 강수진: 안녕하세요. 경량화, MLOps, 사업화 관심있습니다. 현재 생성 AI 기반 창업 준비 중이며, TTS와 한국어 NLG 연구 경험이 있습니다. https://www.linkedin.com/in/ellie-kang7
@@ -187,164 +182,5 @@ LLM, NLG, Dialogue, Reinforcement learning, Distillation, Efficient, Sentence si
 4. 이현제: 삼성SDS에서 자연어처리를 연구하고 있습니다. Instruction fine-tuning, Sentence Representation 쪽에 관심이 있습니다. oglee815@gmail.com 
 5. 김기현: SKTelecom에서 LLM을 활용한 대화모델링을 연구/개발하고 있습니다 -- [Github link](https://github.com/kh-kim/)
 6. 이광희: VIVE STUDIOS에서 CTO를 맡고 있는 이광희입니다. Generative AI, LLM등을 활용하여 Virtual Production, Virtual Human을 포함한 컨텐츠 저작 도구 서비스화에 관심이 있습니다. lkwanghee@gmail.com
-7. 이웅기: 안녕하세요. i-Scream Edu에서 NLP 연구개발로 일하고 있는 이웅기입니다. 개인적으로는 교육 분야에서 학생들의 지식 상태를 예측하는 지식추적(Knowledge Tracing) 연구나 학습분석(Learning Analytics) 연구를 진행하고 있습니다. 열심히 배우겠습니다. 잘 부탁드려요:) codingchild@gmail.com // https://www.linkedin.com/in/unggilee/
 
 
-## Google Scholar
-Google Scholar에서 추천 받은 것들
-
-### Richard Socher - 새로운 관련 연구
-[PDF] Stabilized In-Context Learning with Pre-trained Language Models for Few Shot Dialogue State Tracking
-D Chen, K Qian, Z Yu - arXiv preprint arXiv:2302.05932, 2023
-Prompt-based methods with large pre-trained language models (PLMs) have shown
-impressive unaided performance across many NLP tasks. These models improve
-even further with the addition of a few labeled in-context exemplars to guide output …
-저장	Twitter	LinkedIn	Facebook
-
-[PDF] Decoupling the Skeleton Parsing and Schema Linking for Text-to-SQL
-H Li, J Zhang, C Li, H Chen - arXiv preprint arXiv:2302.05965, 2023
-One of the recent best attempts at Text-to-SQL is the pre-trained language model.
-Due to the structural property of the SQL queries, the seq2seq model takes the
-responsibility of parsing both the schema items (ie, tables and columns) and the …
-저장	Twitter	LinkedIn	Facebook
-
-[PDF] What do Language Models know about word senses? Zero-Shot WSD with Language Models and Domain Inventories
-O Sainz, OL de Lacalle, E Agirre, G Rigau - arXiv preprint arXiv:2302.03353, 2023
-Language Models are the core for almost any Natural Language Processing system
-nowadays. One of their particularities is their contextualized representations, a game
-changer feature when a disambiguation between word senses is necessary. In this …
-저장	Twitter	LinkedIn	Facebook
-
-[PDF] The Wisdom of Hindsight Makes Language Models Better Instruction Followers
-T Zhang, F Liu, J Wong, P Abbeel, JE Gonzalez - arXiv preprint arXiv:2302.05206, 2023
-Reinforcement learning has seen wide success in finetuning large language models
-to better align with instructions via human feedback. The so-called algorithm,
-Reinforcement Learning with Human Feedback (RLHF) demonstrates impressive …
-저장	Twitter	LinkedIn	Facebook
-
-[PDF] Task-Specific Skill Localization in Fine-tuned Language Models
-A Panigrahi, N Saunshi, H Zhao, S Arora - arXiv preprint arXiv:2302.06600, 2023
-Pre-trained language models can be fine-tuned to solve diverse NLP tasks, including
-in few-shot settings. Thus fine-tuning allows the model to quickly pick up task-
-specific skills,''but there has been limited study of where these newly-learnt skills …
-저장	Twitter	LinkedIn	Facebook
-
-[PDF] Discourse Structure Extraction from Pre-Trained and Fine-Tuned Language Models in Dialogues
-C Li, P Huber, W Xiao, M Amblard, C Braud, G Carenini - arXiv preprint arXiv …, 2023
-Discourse processing suffers from data sparsity, especially for dialogues. As a result,
-we explore approaches to build discourse structures for dialogues, based on
-attention matrices from Pre-trained Language Models (PLMs). We investigate …
-저장	Twitter	LinkedIn	Facebook
-
-[PDF] LongEval: Guidelines for Human Evaluation of Faithfulness in Long-form Summarization
-K Krishna, E Bransom, B Kuehl, M Iyyer, P Dasigi… - arXiv preprint arXiv …, 2023
-While human evaluation remains best practice for accurately judging the faithfulness
-of automatically-generated summaries, few solutions exist to address the increased
-difficulty and workload when evaluating long-form summaries. Through a survey of …
-저장	Twitter	LinkedIn	Facebook
-
-[PDF] Prompting Large Language Model for Machine Translation: A Case Study
-B Zhang, B Haddow, A Birch - arXiv preprint arXiv:2301.07069, 2023
-Research on prompting has shown excellent performance with little or even no
-supervised training across many tasks. However, prompting for machine translation
-is still under-explored in the literature. We fill this gap by offering a systematic study …
-저장	Twitter	LinkedIn	Facebook
-
-[PDF] Analyzing the Effectiveness of the Underlying Reasoning Tasks in Multi-hop Question Answering
-X Ho, AKD Nguyen, S Sugawara, A Aizawa - arXiv preprint arXiv:2302.05963, 2023
-To explain the predicted answers and evaluate the reasoning abilities of models,
-several studies have utilized underlying reasoning (UR) tasks in multi-hop question
-answering (QA) datasets. However, it remains an open question as to how effective …
-저장	Twitter	LinkedIn	Facebook
-
-[PDF] Selective In-Context Data Augmentation for Intent Detection using Pointwise V-Information
-YT Lin, A Papangelis, S Kim, S Lee, D Hazarika… - arXiv preprint arXiv …, 2023
-This work focuses on in-context data augmentation for intent detection. Having found
-that augmentation via in-context prompting of large pre-trained language models
-(PLMs) alone does not improve performance, we introduce a novel approach based …
-
-[PDF] Knowledge is a Region in Weight Space for Fine-tuned Language Models
-A Gueta, E Venezian, C Raffel, N Slonim, Y Katz… - arXiv preprint arXiv …, 2023
-Research on neural networks has largely focused on understanding a single model
-trained on a single dataset. However, relatively little is known about the relationships
-between different models, especially those trained or tested on different datasets. We …
-저장	Twitter	LinkedIn	Facebook
-
-[PDF] MQAG: Multiple-choice Question Answering and Generation for Assessing Information Consistency in Summarization
-P Manakul, A Liusie, MJF Gales - arXiv preprint arXiv:2301.12307, 2023
-State-of-the-art summarization systems can generate highly fluent summaries. These
-summaries, however, may contain factual inconsistencies and/or information not
-present in the source. Hence, an important component of assessing the quality of …
-저장	Twitter	LinkedIn	Facebook
-
-[PDF] Probing Out-of-Distribution Robustness of Language Models with Parameter-Efficient Transfer Learning Methods
-H Cho, C Park, J Kim, HJ Kim, KM Yoo, S Lee - arXiv preprint arXiv:2301.11660, 2023
-As the size of the pre-trained language model (PLM) continues to increase,
-numerous parameter-efficient transfer learning methods have been proposed
-recently to compensate for the tremendous cost of fine-tuning. Despite the impressive …
-저장	Twitter	LinkedIn	Facebook
-
-[PDF] Progressive Prompts: Continual Learning for Language Models
-A Razdaibiedina, Y Mao, R Hou, M Khabsa, M Lewis… - arXiv preprint arXiv …, 2023
-We introduce Progressive Prompts-a simple and efficient approach for continual
-learning in language models. Our method allows forward transfer and resists
-catastrophic forgetting, without relying on data replay or a large number of task …
-저장	Twitter	LinkedIn	Facebook
-
-[PDF] Improved Knowledge Distillation for Pre-trained Language Models via Knowledge Selection
-C Wang, Y Lu, Y Mu, Y Hu, T Xiao, J Zhu - arXiv preprint arXiv:2302.00444, 2023
-Knowledge distillation addresses the problem of transferring knowledge from a
-teacher model to a student model. In this process, we typically have multiple types of
-knowledge extracted from the teacher model. The problem is to make full use of them …
-저장	Twitter	LinkedIn	Facebook
-
-Multi-stage transfer learning with BERTology-based language models for question answering system in vietnamese
-K Van Nguyen, PNT Do, ND Nguyen, AGT Nguyen… - International Journal of …, 2023
-With the fast growth of information science and engineering, a large number of
-textual data generated are valuable for natural language processing and its
-applications. Particularly, finding correct answers to natural language questions or …
-저장	Twitter	LinkedIn	Facebook
-
-[PDF] Debiased Fine-Tuning for Vision-language Models by Prompt Regularization
-B Zhu, Y Niu, S Lee, M Hur, H Zhang - arXiv preprint arXiv:2301.12429, 2023
-We present a new paradigm for fine-tuning large-scale visionlanguage pre-trained
-models on downstream task, dubbed Prompt Regularization (ProReg). Different from
-traditional fine-tuning which easily overfits to the downstream task data, ProReg uses …
-저장	Twitter	LinkedIn	Facebook
-
-[PDF] Understanding Finetuning for Factual Knowledge Extraction from Language Models
-M Kazemi, S Mittal, D Ramachandran - arXiv preprint arXiv:2301.11293, 2023
-Language models (LMs) pretrained on large corpora of text from the web have been
-observed to contain large amounts of various types of knowledge about the world.
-This observation has led to a new and exciting paradigm in knowledge graph …
-저장	Twitter	LinkedIn	Facebook
-
-[PDF] Few-Shot Table-to-Text Generation with Prompt Planning and Knowledge Memorization
-Z Guo, M Yan, J Qi, J Zhou, Z He, Z Lin, G Zheng… - arXiv preprint arXiv …, 2023
-Pre-trained language models (PLM) have achieved remarkable advancement in
-table-to-text generation tasks. However, the lack of labeled domain-specific
-knowledge and the topology gap between tabular data and text make it difficult for …
-저장	Twitter	LinkedIn	Facebook
-
-[PDF] Parameter-Efficient Low-Resource Dialogue State Tracking by Prompt Tuning
-MD Ma, JY Kao, S Gao, A Gupta, D Jin, T Chung… - arXiv preprint arXiv …, 2023
-Dialogue state tracking (DST) is an important step in dialogue management to keep
-track of users' beliefs. Existing works fine-tune all language model (LM) parameters
-to tackle the DST task, which requires significant data and computing resources for …
-저장	Twitter	LinkedIn	Facebook
-
-### Jianfeng Gao님의 자료를 팔로우하세요
-Grounded language-image pre-training
-LH Li, P Zhang, H Zhang, J Yang, C Li, Y Zhong, L Wang, L Yuan, L Zhang, JN …
-Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …, 2022
-
-Vinvl: Revisiting visual representations in vision-language models
-P Zhang, X Li, X Hu, J Yang, L Zhang, L Wang, Y Choi, J Gao
-Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …, 2021
-
-Unified vision-language pre-training for image captioning and vqa
-L Zhou, H Palangi, L Zhang, H Hu, J Corso, J Gao
-Proceedings of the AAAI conference on artificial intelligence, 2020
-
-- []()
-- []()
