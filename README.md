@@ -44,10 +44,21 @@ LLM, NLG, Dialogue, Reinforcement learning, Distillation, Efficient, Sentence si
 - [Improving alignment of dialogue agents via targeted human judgements](https://arxiv.org/pdf/2209.14375.pdf)
 - [Training Compute-Optimal Large Language Models](https://arxiv.org/pdf/2203.15556.pdf)
 
-2023-03-04 10:00 ~ 11:00 염기웅, 황명하
+2023-03-04 10:00 ~ 11:30 염기웅, 황명하
 - [LLaMA-based ChatGPT training](https://github.com/nebuly-ai/nebullvm/tree/main/apps/accelerate/chatllama), [ChatLLaMA](https://github.com/juncongmoo/chatllama)
 - [RLHF: Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback](https://arxiv.org/pdf/2204.05862.pdf)
 - [BaGuaLu: Targeting Brain Scale Pretrained Models with over 37 Million Cores](https://dl.acm.org/doi/pdf/10.1145/3503221.3508417)
+
+2023-03-05 09:00 ~ 10:00 염기웅, 
+- [SpikeGPT: Generative Pre-trained Language Model with Spiking Neural Networks](https://arxiv.org/abs/2302.13939)
+- [PaLM: Scaling Language Modeling with Pathways](https://arxiv.org/abs/2204.02311)
+- [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
+
+2023-03-07 00:00 ~ 01:00 염기웅, 김미담, 
+- [Language Is Not All You Need: Aligning Perception with Language Models](https://arxiv.org/pdf/2302.14045v1.pdf)
+- [Flamingo: a Visual Language Model for Few-Shot Learning](https://arxiv.org/abs/2204.14198), [Blog](https://www.deepmind.com/blog/tackling-multiple-tasks-with-a-single-visual-language-model)
+- [Multimodal Chain-of-Thought Reasoning in Language Models](https://arxiv.org/abs/2302.00923)
+
 
 ## 규칙
 1. 영어만 사용은 금지. 한국어 중심 사용. 특수 용어는 영어 사용.
