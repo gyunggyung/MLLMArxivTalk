@@ -44,7 +44,7 @@ LLM, NLG, Dialogue, Reinforcement learning, Distillation, Efficient, Sentence si
 - [Improving alignment of dialogue agents via targeted human judgements](https://arxiv.org/pdf/2209.14375.pdf)
 - [Training Compute-Optimal Large Language Models](https://arxiv.org/pdf/2203.15556.pdf)
 
-2023-03-04 10:00 ~ 11:00 염기웅, 황명하, 
+2023-03-04 10:00 ~ 11:00 염기웅, 황명하
 - [LLaMA-based ChatGPT training](https://github.com/nebuly-ai/nebullvm/tree/main/apps/accelerate/chatllama), [ChatLLaMA](https://github.com/juncongmoo/chatllama)
 - [RLHF: Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback](https://arxiv.org/pdf/2204.05862.pdf)
 - [BaGuaLu: Targeting Brain Scale Pretrained Models with over 37 Million Cores](https://dl.acm.org/doi/pdf/10.1145/3503221.3508417)
