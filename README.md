@@ -1,7 +1,7 @@
 # LLMArxivTalk
-최신 LLM 관련 논문 스터디. 기본 오후에 진행.
+최신 LLM 관련 스터디. 기본 오후에 진행. 논문, 강의, 코드, 뉴스, 블로그 등 다양한 자료로 학습.
 
-LLM, NLG, Dialogue, Reinforcement learning, Distillation, Efficient, Sentence similarity, multiple tasks, multimodal, Stable diffusion, TTS, Text-To-Video, All-To-All, 우주, 생명, 지능, 투자, 개발, 디자인, 경영, ETC... 
+LLM, NLG, Dialogue, Reinforcement learning, Distillation, Efficient, Sentence similarity, multiple tasks, multimodal, Stable diffusion, TTS, Text-To-Video, All-To-All, 우주, 생명, 지능, 윤리, 규제, 법, 노화, 의학, 투자, 개발, 인프라, 디자인, 경영, ETC... 
 
 유망 스타트업 C레벨, 국내외 탑티어 연구자, 국내외 탑티어 대학, 대학원 재학생과 졸업생, 석학, 교수 등 **A급 인재들이 최신 논문, 강의 등 스터디 및 프로젝트 진행.**
 
@@ -9,27 +9,27 @@ LLM, NLG, Dialogue, Reinforcement learning, Distillation, Efficient, Sentence si
 
 주말을 포함하여, 거의 매일 추가 스터디 존재. 흥미로운 주제거나 참여 되는 날만 중간에 들어와서 중간에 나가도 무관. 모든 규칙은 협의 가능. 오프라인 모임도 예정. 자율 참여.
 
-## 진행 사항 + 예정 (모두 오후입니다)
-2023-02-16 11:30 ~ 12:45 염기웅, 강수진, 고현웅
+## 진행 사항 + 예정
+2023-02-16 23:30 ~ 24:45 염기웅, 강수진, 고현웅
 - [GPT Understands, To](https://arxiv.org/pdf/2103.10385.pdf)
 - [P-Tuning v2: Prompt Tuning Can Be Comparable to Fine-tuning Universally Across Scales and Tasks](https://arxiv.org/abs/2110.07602.pdf)
 - [Do Prompt-Based Models Really Understand the Meaning of their Prompts?](https://arxiv.org/pdf/2109.01247.pdf)
 
-2023-02-19 11:30 ~ 12:30 염기웅, 박상준, 강수진
+2023-02-19 23:30 ~ 24:30 염기웅, 박상준, 강수진
 - [∞-former: Infinite Memory Transformer](https://arxiv.org/abs/2109.00301)
 - [Improving language models by retrieving from trillions of tokens](https://arxiv.org/pdf/2112.04426.pdf)
 - [Augmented Language Models: a Survey](https://arxiv.org/pdf/2302.07842.pdf)
 
-2023-02-22 7:30 ~ 9:00 염기웅, 박상준, 이웅기, 이현제
+2023-02-22 19:30 ~ 21:00 염기웅, 박상준, 이웅기, 이현제
 - [BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://arxiv.org/pdf/2301.12597v1.pdf)
 - [Structure and Content-Guided Video Synthesis with Diffusion Models](https://arxiv.org/pdf/2302.03011.pdf)
 - [MusicLM: Generating Music From Text](https://arxiv.org/pdf/2301.11325.pdf)
 
-2023-02-23 11:00 ~ 12:00 염기웅, 박상준, 황명하
+2023-02-23 23:00 ~ 24:00 염기웅, 박상준, 황명하
 - [InstructGPT : Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155)
 - [BioGPT: Generative Pre-trained Transformer for Biomedical Text Generation and Mining](https://arxiv.org/abs/2210.10341)
 
-2023-02-24 5:00 ~ 7:00 염기웅
+2023-02-24 17:00 ~ 19:00 염기웅
 - [Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2204.05862)
 - [Multimodal Chain-of-Thought Reasoning in Language Models](https://arxiv.org/abs/2302.00923)
 - [Constitutional AI: Harmlessness from AI Feedback](https://arxiv.org/abs/2212.08073)
@@ -39,17 +39,17 @@ LLM, NLG, Dialogue, Reinforcement learning, Distillation, Efficient, Sentence si
 - [PAL: Program-aided Language Models](https://arxiv.org/pdf/2211.10435.pdf)
 - [Toolformer: Language Models Can Teach Themselves to Use Tools](https://arxiv.org/pdf/2302.04761.pdf)
 
-2023-03-01 8:30 ~ 9:40 염기웅, 이대환
+2023-03-01 20:30 ~ 21:40 염기웅, 이대환
 - [LLaMA: Open and Efficient Foundation Language Models](https://research.facebook.com/file/1574548786327032/LLaMA--Open-and-Efficient-Foundation-Language-Models.pdf)
 - [Improving alignment of dialogue agents via targeted human judgements](https://arxiv.org/pdf/2209.14375.pdf)
 - [Training Compute-Optimal Large Language Models](https://arxiv.org/pdf/2203.15556.pdf)
 
-2023-03-04 10:00 ~ 11:30 염기웅, 황명하
+2023-03-04 22:00 ~ 23:30 염기웅, 황명하
 - [LLaMA-based ChatGPT training](https://github.com/nebuly-ai/nebullvm/tree/main/apps/accelerate/chatllama), [ChatLLaMA](https://github.com/juncongmoo/chatllama)
 - [RLHF: Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback](https://arxiv.org/pdf/2204.05862.pdf)
 - [BaGuaLu: Targeting Brain Scale Pretrained Models with over 37 Million Cores](https://dl.acm.org/doi/pdf/10.1145/3503221.3508417)
 
-2023-03-05 09:00 ~ 10:00 염기웅, 
+2023-03-05 21:00 ~ 22:00 염기웅, 
 - [SpikeGPT: Generative Pre-trained Language Model with Spiking Neural Networks](https://arxiv.org/abs/2302.13939)
 - [PaLM: Scaling Language Modeling with Pathways](https://arxiv.org/abs/2204.02311)
 - [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
@@ -167,7 +167,7 @@ LLM, NLG, Dialogue, Reinforcement learning, Distillation, Efficient, Sentence si
 
 ### github
 - [DistilKoBiLSTM](https://github.com/gyunggyung/DistilKoBiLSTM)
-- [Donut 🍩 : Document Understanding Transformer](https://github.com/clovaai/donut)
+- [Donut: Document Understanding Transformer](https://github.com/clovaai/donut)
 - [The RWKV Language Model (and my LM tricks)](https://github.com/BlinkDL/RWKV-LM)
 
 ### youtube
