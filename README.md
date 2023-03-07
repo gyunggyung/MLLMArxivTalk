@@ -52,14 +52,17 @@ LLM, NLG, Dialogue, Reinforcement learning, Distillation, Efficient, Sentence si
 2023-03-05 21:00 ~ 21:30 염기웅, 
 - [LLaMA-7B](https://huggingface.co/spaces/chansung/LLaMA-7B), [LLAMA Up-data](https://github.com/hunkim/llama-up-data), [LLaMA: INT8 edition](https://github.com/tloen/llama-int8), [UForm](https://github.com/unum-cloud/uform)
 
-2023-03-07 00:00 ~ 01:00 염기웅, 김미담, 
+2023-03-08 00:00 ~ 01:00 염기웅, 김미담, 
 - [Language Is Not All You Need: Aligning Perception with Language Models](https://arxiv.org/pdf/2302.14045v1.pdf)
 - [Flamingo: a Visual Language Model for Few-Shot Learning](https://arxiv.org/abs/2204.14198), [Blog](https://www.deepmind.com/blog/tackling-multiple-tasks-with-a-single-visual-language-model)
 - [Multimodal Chain-of-Thought Reasoning in Language Models](https://arxiv.org/abs/2302.00923)
 
 2023-03-08 19:30 ~ 20:30 염기웅, 
-- [SpikeGPT: Generative Pre-trained Language Model with Spiking Neural Networks](https://arxiv.org/abs/2302.13939)
+- [PaLM-E: An Embodied Multimodal Language Model](https://palm-e.github.io/?fbclid=IwAR2UVaM1wxvYvX9j9BlciNR7oelnTCQNa4okY2IOV6u8uYQC8-EtKxsgKns)
 - [PaLM: Scaling Language Modeling with Pathways](https://arxiv.org/abs/2204.02311)
+- [Scaling Language Models: Methods, Analysis & Insights from Training Gopher](https://arxiv.org/pdf/2112.11446.pdf)
+
+- [SpikeGPT: Generative Pre-trained Language Model with Spiking Neural Networks](https://arxiv.org/abs/2302.13939)
 - [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/pdf/2106.09685.pdf)
 - [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
 - [Low-rank Adaptation for Fast Text-to-Image Diffusion Fine-tuning](https://github.com/cloneofsimo/lora)
