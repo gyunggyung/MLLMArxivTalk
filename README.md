@@ -58,8 +58,8 @@ LLM, NLG, Dialogue, Reinforcement learning, Distillation, Efficient, Sentence si
 - [Multimodal Chain-of-Thought Reasoning in Language Models](https://arxiv.org/abs/2302.00923)
 
 2023-03-08 19:30 ~ 20:30 염기웅, 최재훈, 황지현, 김혜인
-- [Ko
-- [ufrom](https://colab.research.google.com/drive/1-8-kyfaN6bExVCmQmEbO7YWxpjzOQHON#scrollTo=4udkdzJwbq-T)
+- [How to use UForm](https://colab.research.google.com/drive/1-8-kyfaN6bExVCmQmEbO7YWxpj)
+- [How to create KoChatLLaMA](https://docs.google.com/document/d/1-Kj4s_gP90X8__gOPU)
 
 2023-03-08 20:00 ~ 21:00 염기웅, 
 - [PaLM-E: An Embodied Multimodal Language Model](https://palm-e.github.io/?fbclid=IwAR2UVaM1wxvYvX9j9BlciNR7oelnTCQNa4okY2IOV6u8uYQC8-EtKxsgKns)
