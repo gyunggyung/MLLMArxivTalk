@@ -61,12 +61,15 @@ LLM, NLG, Dialogue, Reinforcement learning, Distillation, Efficient, Sentence si
 - [How to use UForm](https://colab.research.google.com/drive/1-8-kyfaN6bExVCmQmEbO7YWxpj)
 - [How to create KoChatLLaMA](https://docs.google.com/document/d/1-Kj4s_gP90X8__gOPU)
 
-2023-03-08 20:00 ~ 21:00 염기웅, 
-- [PaLM-E: An Embodied Multimodal Language Model](https://palm-e.github.io/?fbclid=IwAR2UVaM1wxvYvX9j9BlciNR7oelnTCQNa4okY2IOV6u8uYQC8-EtKxsgKns)
-- [PaLM: Scaling Language Modeling with Pathways](https://arxiv.org/abs/2204.02311)
+2023-03-09 20:00 ~ 22:00 염기웅, 윤상현, 신승욱
+- [Competition-Level Code Generation with AlphaCode](https://arxiv.org/abs/2203.07814)
 - [Scaling Language Models: Methods, Analysis & Insights from Training Gopher](https://arxiv.org/pdf/2112.11446.pdf)
+- [GPU and learning method required for KoChatLlaMA fine-tuning]()
+- [Advantages and Problems of UForm]()
 
 NEXT
+- [PaLM-E: An Embodied Multimodal Language Model](https://palm-e.github.io/?fbclid=IwAR2UVaM1wxvYvX9j9BlciNR7oelnTCQNa4okY2IOV6u8uYQC8-EtKxsgKns)
+- [PaLM: Scaling Language Modeling with Pathways](https://arxiv.org/abs/2204.02311)
 - [SpikeGPT: Generative Pre-trained Language Model with Spiking Neural Networks](https://arxiv.org/abs/2302.13939)
 - [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/pdf/2106.09685.pdf)
 - [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
