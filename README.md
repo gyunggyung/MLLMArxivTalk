@@ -67,8 +67,15 @@ LLM, NLG, Dialogue, Reinforcement learning, Distillation, Efficient, Sentence si
 - [GPU and learning method required for KoChatLlaMA fine-tuning]()
 - [Advantages and Problems of UForm]()
 
+2023-03-10 21:00 ~ 22:20 염기웅, 윤상현, 신승욱
+- [GPT-4 is coming next week – and it will be multimodal, says Microsoft Germany](https://www.heise.de/news/GPT-4-is-coming-next-week-and-it-will-be-multimodal-says-Microsoft-Germany-7540972.html)
+- [MuAViC: A Multilingual Audio-Visual Corpus for Robust Speech Recognition and Robust Speech-to-Text Translation](https://arxiv.org/abs/2303.00628)
+- [Google USM: Scaling Automatic Speech Recognition Beyond 100 Languages](https://arxiv.org/abs/2303.01037)
+- [PaLM-E: An Embodied Multimodal Language Model](https://palm-e.github.io/#demo)
+
+
 NEXT
-- [PaLM-E: An Embodied Multimodal Language Model](https://palm-e.github.io/?fbclid=IwAR2UVaM1wxvYvX9j9BlciNR7oelnTCQNa4okY2IOV6u8uYQC8-EtKxsgKns)
+- [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://arxiv.org/abs/2303.04671)
 - [PaLM: Scaling Language Modeling with Pathways](https://arxiv.org/abs/2204.02311)
 - [SpikeGPT: Generative Pre-trained Language Model with Spiking Neural Networks](https://arxiv.org/abs/2302.13939)
 - [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/pdf/2106.09685.pdf)
@@ -200,15 +207,3 @@ NEXT
 - [Gen-1: The Next Step Forward for Generative AI](https://research.runwayml.com/gen1)
 - [DIFF-SVC FOR VOCAL SYNTH USERS](https://docs.google.com/document/u/0/d/1nA3PfQ-BooUpjCYErU-BHYvg2_NazAYJ0mvvmcjG40o/mobilebasic)
 - [Chat GPT detector by ZeroGPT: detect OpenAI text](https://www.zerogpt.com/)
-
-## 참여 인원 소개 
-23년 3월 기준, 20명 정도 더 많은 분들이 있습니다. 합류를 원하시면 간단한 소개와 newhiwoong@gmail.com 으로 연락주세요.
-
-1. 염기웅: 저는 여러분을 모으고 프로메우스와 바드의 꿈이라는 책을 쓰는 염기웅입니다. LLM, Dialogue Distillation, Knowledge Distillation에 관심과 지식이 있습니다! 경량화, 서빙, 멀티모달, 멀티태스크에도 관심이 있습니다. newhiwoong@gmail.com https://github.com/gyunggyung
-2. 강수진: 안녕하세요. 경량화, MLOps, 사업화 관심있습니다. 현재 생성 AI 기반 창업 준비 중이며, TTS와 한국어 NLG 연구 경험이 있습니다. https://www.linkedin.com/in/ellie-kang7
-3. 박상준: 스타트업 ML 엔지니어로 일하다 휴직 후 성균관대 학부생으로 NLP 연구를 하고 있습니다.
-4. 이현제: 삼성SDS에서 자연어처리를 연구하고 있습니다. Instruction fine-tuning, Sentence Representation 쪽에 관심이 있습니다. oglee815@gmail.com 
-5. 김기현: SKTelecom에서 LLM을 활용한 대화모델링을 연구/개발하고 있습니다 -- [Github link](https://github.com/kh-kim/)
-6. 이광희: VIVE STUDIOS에서 CTO를 맡고 있는 이광희입니다. Generative AI, LLM등을 활용하여 Virtual Production, Virtual Human을 포함한 컨텐츠 저작 도구 서비스화에 관심이 있습니다. lkwanghee@gmail.com
-
-
