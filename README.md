@@ -67,7 +67,7 @@ LLM, NLG, Dialogue, Reinforcement learning, Distillation, Efficient, Sentence si
 - [GPU and learning method required for KoChatLlaMA fine-tuning]()
 - [Advantages and Problems of UForm]()
 
-2023-03-10 21:00 ~ 22:20 염기웅, 윤상현, 신승욱
+2023-03-10 21:00 ~ 22:20 염기웅, 나요한, 최재훈, 외 청강 5인
 - [GPT-4 is coming next week – and it will be multimodal, says Microsoft Germany](https://www.heise.de/news/GPT-4-is-coming-next-week-and-it-will-be-multimodal-says-Microsoft-Germany-7540972.html)
 - [MuAViC: A Multilingual Audio-Visual Corpus for Robust Speech Recognition and Robust Speech-to-Text Translation](https://arxiv.org/abs/2303.00628)
 - [Google USM: Scaling Automatic Speech Recognition Beyond 100 Languages](https://arxiv.org/abs/2303.01037)
@@ -75,6 +75,7 @@ LLM, NLG, Dialogue, Reinforcement learning, Distillation, Efficient, Sentence si
 
 
 NEXT
+- [Tightly-Integrated Generative Encoder-Decoder Representation]()
 - [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://arxiv.org/abs/2303.04671)
 - [PaLM: Scaling Language Modeling with Pathways](https://arxiv.org/abs/2204.02311)
 - [SpikeGPT: Generative Pre-trained Language Model with Spiking Neural Networks](https://arxiv.org/abs/2302.13939)
