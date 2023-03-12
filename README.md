@@ -31,7 +31,6 @@ LLM, NLG, Dialogue, Reinforcement learning, Distillation, Efficient, Sentence si
 
 2023-02-24 17:00 ~ 19:00 염기웅
 - [Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2204.05862)
-- [Multimodal Chain-of-Thought Reasoning in Language Models](https://arxiv.org/abs/2302.00923)
 - [Constitutional AI: Harmlessness from AI Feedback](https://arxiv.org/abs/2212.08073)
 - [Provable Copyright Protection for Generative Models](https://arxiv.org/abs/2302.10870)
 - [What learning algorithm is in-context learning? Investigations with linear models](https://arxiv.org/abs/2211.15661)
@@ -72,6 +71,10 @@ LLM, NLG, Dialogue, Reinforcement learning, Distillation, Efficient, Sentence si
 - [MuAViC: A Multilingual Audio-Visual Corpus for Robust Speech Recognition and Robust Speech-to-Text Translation](https://arxiv.org/abs/2303.00628)
 - [Google USM: Scaling Automatic Speech Recognition Beyond 100 Languages](https://arxiv.org/abs/2303.01037)
 - [PaLM-E: An Embodied Multimodal Language Model](https://palm-e.github.io/#demo)
+
+2023-03-10 20:00 ~ 21:00 염기웅, 황지현, 이대환, 나요한
+- [Language Is Not All You Need: Aligning Perception with Language Models](https://arxiv.org/pdf/2302.14045v1.pdf)
+- [Multimodal Chain-of-Thought Reasoning in Language Models](https://arxiv.org/abs/2302.00923)
 
 
 NEXT
