@@ -11,7 +11,7 @@ LLM, NLG, Dialogue, Reinforcement learning, Distillation, Efficient, Sentence si
 
 ## 진행 사항 + 예정
 2023-02-16 23:30 ~ 24:45 염기웅, 강수진, 고현웅
-- [GPT Understands, To](https://arxiv.org/pdf/2103.10385.pdf)
+- [GPT Understands, Too](https://arxiv.org/pdf/2103.10385.pdf)
 - [P-Tuning v2: Prompt Tuning Can Be Comparable to Fine-tuning Universally Across Scales and Tasks](https://arxiv.org/abs/2110.07602.pdf)
 - [Do Prompt-Based Models Really Understand the Meaning of their Prompts?](https://arxiv.org/pdf/2109.01247.pdf)
 
