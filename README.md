@@ -1,7 +1,7 @@
-# LLMArxivTalk
-최신 LLM 관련 스터디. 기본 오후에 진행. 논문, 강의, 코드, 뉴스, 블로그 등 다양한 자료로 학습.
+# MLLMArxivTalk
+최신 MLLM 관련 스터디. 기본 오후에 진행. 논문, 강의, 코드, 뉴스, 블로그 등 다양한 자료로 학습.
 
-LLM, NLG, Dialogue, Reinforcement learning, Distillation, Efficient, Sentence similarity, multiple tasks, multimodal, Stable diffusion, TTS, Text-To-Video, All-To-All, 우주, 생명, 지능, 윤리, 규제, 법, 노화, 의학, 투자, 개발, 인프라, 디자인, 경영, ETC... 
+MLLM, LLM, NLG, Dialogue, Reinforcement learning, Distillation, Efficient, Sentence similarity, multiple tasks, multimodal, Stable diffusion, TTS, Text-To-Video, All-To-All, 우주, 생명, 지능, 윤리, 규제, 법, 노화, 의학, 투자, 개발, 인프라, 디자인, 경영, ETC... 
 
 유망 스타트업 C레벨, 국내외 탑티어 연구자, 국내외 탑티어 대학, 대학원 재학생과 졸업생, 석학, 교수 등 **A급 인재들이 최신 논문, 강의 등 스터디 및 프로젝트 진행.**
 
